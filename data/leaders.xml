@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<leaders>
+  <leader>
+    <name>Ottomans</name>
+    <displayname>Abdulmecid</displayname>
+    <description>Abdulmecid is scholarly and even-tempered. He balances colony development, trade, improvements and military. He is gracious to allies but may underestimate opponents.</description>
+  </leader>
+  <leader>
+    <name>UnitedStates</name>
+    <displayname>Abraham Lincoln</displayname>
+    <description>16th President of the United States, he favours strong economy over military attacks.</description>
+  </leader>
+  <leader>
+    <name>Russians</name>
+    <displayname>Alexander the Liberator</displayname>
+    <description>Alexander the Liberator likes to attack early and swarm his opponents with infantry and emphasizes large armies at the expense of technological development.</description>
+  </leader>
+  <leader>
+    <name>Egyptians</name>
+    <displayname>Muhammad Ali Pasha</displayname>
+    <description>Khedive of Egypt and Sudan, regarded as the founder of modern Egypt.</description>
+  </leader>
+  <leader>
+    <name>Tupinamba</name>
+    <displayname>Cunhambebe</displayname>
+    <description>Cunhambebe will strike your town hard and fast. A raider with little patience for defense, he is a clever opponent eager to raid your towns and gatherers.</description>
+  </leader>
+  <leader>
+    <name>Indians</name>
+    <displayname>Bahadur Shah</displayname>
+    <description>Bahadur Shah, Emperor of the Mughals, approaches warfare with a creative and enlightened mind. He resists the urge to let his emotions get the best of him, and as such is very patient and pragmatic. Akbar respects his enemies, yet will not let this prevent him from crushing them with a large and highly sophisticated army.</description>
+  </leader>
+  <leader>
+    <name>Argentineans</name>
+    <displayname>Bartolomé Mitre</displayname>
+    <description>Great politician and war strategist, Mitre is not worried about the development of his country, but of the Argentine people. While leaving his country vulnerable, his armies will attack quickly.</description>
+  </leader>
+  <leader>
+    <name>Mexicans</name>
+    <displayname>Benito Juárez</displayname>
+    <description>President of Mexico, he favours strong economy over military attacks.</description>
+  </leader>
+  <leader>
+    <name>WallMapu</name>
+    <displayname>Calfucura</displayname>
+    <description>Tribal Chief of the Mapuches.</description>
+  </leader>
+  <leader>
+    <name>Portuguese</name>
+    <displayname>Carlos the Diplomat</displayname>
+    <description>Carlos the Diplomat is calculating and far-sighted. He emphasizes diplomacy and economic development but will resort to military dominance if necessary.</description>
+  </leader>
+  <leader>
+    <name>Romanians</name>
+    <displayname>King Carol I</displayname>
+    <description>Leader of Romania.</description>
+  </leader>
+  <leader>
+    <name>Haitians</name>
+    <displayname>Faustin I</displayname>
+    <description>The Emperor of Haiti.</description>
+  </leader>
+  <leader>
+    <name>Bulgarians</name>
+    <displayname>Tsar Ferdinand</displayname>
+    <description>No background information available.</description>
+  </leader>
+  <leader>
+    <name>Danish</name>
+    <displayname>Frederick VII</displayname>
+    <description>King of Denmark, last absolute monarch of Denmark.</description>
+  </leader>
+  <leader>
+    <name>Australians</name>
+    <displayname>Henry Parkes</displayname>
+    <description>Australian Leader.</description>
+  </leader>
+  <leader>
+    <name>Spanish</name>
+    <displayname>Queen Isabella II</displayname>
+    <description>Queen Isabella II of Spain is supportive bordering on flirtatious with her allies but mocks and chastises her enemies. She makes full use of the versatility of the Spanish army, but never leaves her colonies undefended. She is unlikely to take dangerous risks.</description>
+  </leader>
+  <leader>
+    <name>Bolivians</name>
+    <displayname>Isidoro Belzu</displayname>
+    <description>Populist eleventh President of Bolivia, champion of indigenous and peasants' rights.</description>
+  </leader>
+  <leader>
+    <name>Canadians</name>
+    <displayname>John MacDonald</displayname>
+    <description>Prime-minister of Canada, he favours strong economy over military attacks.</description>
+  </leader>
+  <leader>
+    <name>Belgians</name>
+    <displayname>Leopold II</displayname>
+    <description>King of the Belgians, founder of the Congo Free State.</description>
+  </leader>
+  <leader>
+    <name>XPSioux</name>
+    <displayname>Red Cloud</displayname>
+    <description>Red Cloud will strike your town hard and fast. A raider with little patience for defense, he is a clever opponent eager to raid your towns and gatherers.</description>
+  </leader>
+  <leader>
+    <name>Chileans</name>
+    <displayname>Diego Portales</displayname>
+    <description>The architect of Chile conservatism.</description>
+  </leader>
+  <leader>
+    <name>Habsburgs</name>
+    <displayname>Maria Theresa</displayname>
+    <description>The only female ruler of the Habsburg Dominions: Austria, Hungary, Croatia, Bohemia, Mantua, Milan, Lodomeria, and Galicia.</description>
+  </leader>
+  <leader>
+    <name>Ethiopians</name>
+    <displayname>Menelik II</displayname>
+    <description>The Emperor of Ethopia.</description>
+  </leader>
+  <leader>
+    <name>Centralamericans</name>
+    <displayname>Francisco Morazán</displayname>
+    <description>Second President of Central America, and also Head of State of Honduras, El Salvador and Costa Rica at varying points.</description>
+  </leader>
+  <leader>
+    <name>Japanese</name>
+    <displayname>Emperor Meiji</displayname>
+    <description>Emperor Mutsuhito Meiji lives a life of cutthroat survival, following the motto: "Life means that I can live to see tomorrow." When he speaks, he does so with certainty, as if whatever he says has already come to pass. When he strikes, he does so first swiftly and without a hint of mercy.</description>
+  </leader>
+  <leader>
+    <name>Koreans</name>
+    <displayname>Empress Myeongseong</displayname>
+    <description>Empress Myeongseong is the ill-fated first Empress of the Korean Empire. She is a witty intellectual, known as a fervid opponent to imperialists, and her subjects would gladly protect her with their lives.</description>
+  </leader>
+  <leader>
+    <name>French</name>
+    <displayname>Napoleon III</displayname>
+    <description>Napoleon III will adapt to any necessary strategy, but he prefers to attack with large, fully-upgraded armies, consisting primarily of cavalry.</description>
+  </leader>
+  <leader>
+    <name>XPIroquois</name>
+    <displayname>John Norton</displayname>
+    <description>John Norton is a warlike, but also diplomatic, leader. He is patient and will build up his economy before attacking, with a particular focus on Trade Routes and Native Alliances.</description>
+  </leader>
+  <leader>
+    <name>Swedish</name>
+    <displayname>Oscar II</displayname>
+    <description>The last king of the union between Sweden and Norway, Oscar II presided over an age of industrialization and neutrality.</description>
+  </leader>
+  <leader>
+    <name>Germans</name>
+    <displayname>Otto Von Bismarck</displayname>
+    <description>Otto Von Bismarck is proud and confident. He expresses regret when his men die in battle, but does not hesitate to use his entire military might to accomplish even the smallest task. Bismarck will not neglect his economy, but believes in attacking aggressively.</description>
+  </leader>
+  <leader>
+    <name>Brazilians</name>
+    <displayname>Dom Pedro II</displayname>
+    <description>Emperor Dom Pedro II is an enlightened monarch with excessive power over the Brazilian government. Favors the economy of his nation. Years of peace may have weakened his army, but the upcoming war has woken up the emperor's courage and bravery.</description>
+  </leader>
+  <leader>
+    <name>Serbians</name>
+    <displayname>King Petar</displayname>
+    <description>No background information available.</description>
+  </leader>
+  <leader>
+    <name>Peruvians</name>
+    <displayname>Ramón Castilla</displayname>
+    <description>Ramón Castilla is the Peruvian President.</description>
+  </leader>
+  <leader>
+    <name>Maori</name>
+    <displayname>Te Rauparaha</displayname>
+    <description>Maori leader.</description>
+  </leader>
+  <leader>
+    <name>Zulu</name>
+    <displayname>Shaka</displayname>
+    <description>King of the Zulu.</description>
+  </leader>
+  <leader>
+    <name>Colombians</name>
+    <displayname>Simón Bolívar</displayname>
+    <description>Bolívar is an impatient leader who will build forces to attack as soon as possible. He will work hard to control nearby Native villages.</description>
+  </leader>
+  <leader>
+    <name>Paraguayans</name>
+    <displayname>Solano Lopez</displayname>
+    <description>Francisco Solano López is arrogant, ambitious and insane. He believes that his nation will only grow with a powerful industries. He's not afraid of threatening his enemies. Agressive and expansionist, he'll attack with large armies.</description>
+  </leader>
+  <leader>
+    <name>Greeks</name>
+    <displayname>Theodoros Kolokotronis</displayname>
+    <description>Leader of the Greek independance movement.</description>
+  </leader>
+  <leader>
+    <name>Tawantinsuyu</name>
+    <displayname>Tupac Amaru II</displayname>
+    <description>Incan Leader.</description>
+  </leader>
+  <leader>
+    <name>Uruguayans</name>
+    <displayname>Venancio Flores</displayname>
+    <description>He was also the President of Uruguay.</description>
+  </leader>
+  <leader>
+    <name>Italians</name>
+    <displayname>Victor Emmanuel II</displayname>
+    <description>First King of Italy.</description>
+  </leader>
+  <leader>
+    <name>British</name>
+    <displayname>Queen Victoria</displayname>
+    <description>Queen Victoria can be aloof, aristocratic and formal. She is a dependable if not overly warm ally. She understands the value of a strong economy and a versatile navy.</description>
+  </leader>
+  <leader>
+    <name>Dutch</name>
+    <displayname>William III of Orange</displayname>
+    <description>William III of Orange rules the Netherlands.</description>
+  </leader>
+  <leader>
+    <name>Chinese</name>
+    <displayname>Empress Dowager Cixi</displayname>
+    <description>Consort, mother, and aunt to successive Qing emperors, she was the real power behind the throne for almost 50 years.</description>
+  </leader>
+</leaders>
