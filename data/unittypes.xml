@@ -1,0 +1,1018 @@
+<?xml version="1.0"?>
+<unittypes>
+  <unittype>
+    <name>Unit</name>
+    <displayname>Unit</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Ship</name>
+    <displayname>Ship</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Building</name>
+    <displayname>Building</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>MilitaryBuilding</name>
+    <displayname>MilitaryBuilding</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>EconomicBuilding</name>
+    <displayname>EconomicBuilding</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Dropsite</name>
+    <displayname>Dropsite</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Resource</name>
+    <displayname>Resource</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>HuntedResource</name>
+    <displayname>HuntedResource</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>MinedResource</name>
+    <displayname>MinedResource</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LandResource</name>
+    <displayname>LandResource</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>WaterResource</name>
+    <displayname>WaterResource</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Projectile</name>
+    <displayname>Projectile</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Nature</name>
+    <displayname>Nature</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>SpecialPowers</name>
+    <displayname>SpecialPowers</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Unattackable</name>
+    <displayname>Unattackable</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractTemple</name>
+    <displayname>AbstractTemple</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Military</name>
+    <displayname>Military</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Hero</name>
+    <displayname>Hero</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Tree</name>
+    <displayname>Tree</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractInfantry</name>
+    <displayname>AbstractInfantry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractCavalry</name>
+    <displayname>AbstractCavalry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractArcher</name>
+    <displayname>AbstractArcher</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractVillager</name>
+    <displayname>AbstractVillager</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractFarm</name>
+    <displayname>AbstractFarm</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractDock</name>
+    <displayname>AbstractDock</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>InventoryHolder</name>
+    <displayname>InventoryHolder</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>InventoryItem</name>
+    <displayname>InventoryItem</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>UseableItem</name>
+    <displayname>UseableItem</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>StrengthBonus</name>
+    <displayname>StrengthBonus</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>TradeableTo</name>
+    <displayname>TradeableTo</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>TradeableFrom</name>
+    <displayname>TradeableFrom</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractSiegeWeapon</name>
+    <displayname>AbstractSiegeWeapon</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>FlyingUnit</name>
+    <displayname>FlyingUnit</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>MythUnit</name>
+    <displayname>MythUnit</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Economic</name>
+    <displayname>Economic</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Ranged</name>
+    <displayname>Ranged</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>FastSpeed</name>
+    <displayname>FastSpeed</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AverageSpeed</name>
+    <displayname>AverageSpeed</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>SlowSpeed</name>
+    <displayname>SlowSpeed</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Generic</name>
+    <displayname>Generic</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>UnitClass</name>
+    <displayname>UnitClass</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>BuildingClass</name>
+    <displayname>BuildingClass</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>NatureClass</name>
+    <displayname>NatureClass</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>EmbellishmentClass</name>
+    <displayname>EmbellishmentClass</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>TestClass</name>
+    <displayname>TestClass</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>E3Class</name>
+    <displayname>E3Class</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>All</name>
+    <displayname>All</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>ActionGather</name>
+    <displayname>ActionGather</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>ActionTrain</name>
+    <displayname>ActionTrain</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>ActionBuild</name>
+    <displayname>ActionBuild</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>ActionAttack</name>
+    <displayname>ActionAttack</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>ActionTrickle</name>
+    <displayname>ActionTrickle</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Fish</name>
+    <displayname>Fish</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Transport</name>
+    <displayname>Transport</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractWall</name>
+    <displayname>AbstractWall</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Herdable</name>
+    <displayname>Herdable</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractSettlement</name>
+    <displayname>AbstractSettlement</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>BuildingsThatShoot</name>
+    <displayname>BuildingsThatShoot</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>MythUnitGodPower</name>
+    <displayname>MythUnitGodPower</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>ParticipatesInBattlecries</name>
+    <displayname>ParticipatesInBattlecries</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AffectedByTownBell</name>
+    <displayname>AffectedByTownBell</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>MinimapFilterMilitary</name>
+    <displayname>MinimapFilterMilitary</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>MinimapFilterEconomic</name>
+    <displayname>MinimapFilterEconomic</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>TradeUnit</name>
+    <displayname>TradeUnit</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Healable</name>
+    <displayname>Healable</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Fame</name>
+    <displayname>Fame</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>RailroadUnit</name>
+    <displayname>RailroadUnit</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractRailroadStation</name>
+    <displayname>AbstractRailroadStation</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractFort</name>
+    <displayname>AbstractFort</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractImperialArmy</name>
+    <displayname>AbstractImperialArmy</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractResourceCrate</name>
+    <displayname>AbstractResourceCrate</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractArtillery</name>
+    <displayname>AbstractArtillery</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractCavalryInfantry</name>
+    <displayname>AbstractCavalryInfantry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractPet</name>
+    <displayname>AbstractPet</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>ConvertsHerds</name>
+    <displayname>ConvertsHerds</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Socket</name>
+    <displayname>Socket</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Aircraft</name>
+    <displayname>Aircraft</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractLightInfantry</name>
+    <displayname>AbstractLightInfantry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractHeavyCavalry</name>
+    <displayname>AbstractHeavyCavalry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Huntable</name>
+    <displayname>Huntable</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Guardian</name>
+    <displayname>Guardian</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractSiegeTrooper</name>
+    <displayname>AbstractSiegeTrooper</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractFirePit</name>
+    <displayname>AbstractFirePit</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractCanSeeStealth</name>
+    <displayname>AbstractCanSeeStealth</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Mercenary</name>
+    <displayname>Mercenary</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractWarShip</name>
+    <displayname>AbstractWarShip</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractLightCavalry</name>
+    <displayname>AbstractLightCavalry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractTradeMarket</name>
+    <displayname>AbstractTradeMarket</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractShrine</name>
+    <displayname>AbstractShrine</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractWonder</name>
+    <displayname>AbstractWonder</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractTypeHuntableMagnet</name>
+    <displayname>AbstractTypeHuntableMagnet</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractTypeHerdableMagnet</name>
+    <displayname>AbstractTypeHerdableMagnet</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractBannerArmy</name>
+    <displayname>AbstractBannerArmy</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractMonk</name>
+    <displayname>AbstractMonk</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractZamburak</name>
+    <displayname>AbstractZamburak</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractSepoy</name>
+    <displayname>AbstractSepoy</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractRajput</name>
+    <displayname>AbstractRajput</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractUrumi</name>
+    <displayname>AbstractUrumi</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractSowar</name>
+    <displayname>AbstractSowar</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractMahout</name>
+    <displayname>AbstractMahout</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractHowdah</name>
+    <displayname>AbstractHowdah</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractMercFlailiphant</name>
+    <displayname>AbstractMercFlailiphant</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractSiegeElephant</name>
+    <displayname>AbstractSiegeElephant</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Trade</name>
+    <displayname>Trade</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>XP</name>
+    <displayname>XP</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractDaimyo</name>
+    <displayname>AbstractDaimyo</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractElephant</name>
+    <displayname>AbstractElephant</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractCamel</name>
+    <displayname>AbstractCamel</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractMilitaryWonder</name>
+    <displayname>AbstractMilitaryWonder</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractPoliticalWonder</name>
+    <displayname>AbstractPoliticalWonder</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractReligiousWonder</name>
+    <displayname>AbstractReligiousWonder</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractHandElephant</name>
+    <displayname>AbstractHandElephant</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractGurkha</name>
+    <displayname>AbstractGurkha</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractMansabdar</name>
+    <displayname>AbstractMansabdar</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractChineseMonk</name>
+    <displayname>AbstractChineseMonk</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractGunpowderTrooper</name>
+    <displayname>AbstractGunpowderTrooper</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractHandInfantry</name>
+    <displayname>AbstractHandInfantry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractHeavyInfantry</name>
+    <displayname>AbstractHeavyInfantry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractNativeWarrior</name>
+    <displayname>AbstractNativeWarrior</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractRangedInfantry</name>
+    <displayname>AbstractRangedInfantry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractRangedCavalry</name>
+    <displayname>AbstractRangedCavalry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractHandCavalry</name>
+    <displayname>AbstractHandCavalry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractGunpowderCavalry</name>
+    <displayname>AbstractGunpowderCavalry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractFishingBoat</name>
+    <displayname>AbstractFishingBoat</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>GiantBuddha</name>
+    <displayname>GiantBuddha</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>WaterGuardian</name>
+    <displayname>WaterGuardian</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>CannotConvertHill</name>
+    <displayname>CannotConvertHill</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractJapaneseMonk</name>
+    <displayname>AbstractJapaneseMonk</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Gold</name>
+    <displayname>Gold</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AnimalPrey</name>
+    <displayname>AnimalPrey</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Food</name>
+    <displayname>Food</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Wood</name>
+    <displayname>Wood</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>FoodDropsite</name>
+    <displayname>FoodDropsite</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Hack</name>
+    <displayname>Hack</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>WoodDropsite</name>
+    <displayname>WoodDropsite</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>GoldDropsite</name>
+    <displayname>GoldDropsite</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeVillagersRespondToAttack</name>
+    <displayname>LogicalTypeVillagersRespondToAttack</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeHandUnitsAutoAttack</name>
+    <displayname>LogicalTypeHandUnitsAutoAttack</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeVillagersAttack</name>
+    <displayname>LogicalTypeVillagersAttack</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeNeededForVictory</name>
+    <displayname>LogicalTypeNeededForVictory</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeAffectedByTownBell</name>
+    <displayname>LogicalTypeAffectedByTownBell</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>NativeBuilding</name>
+    <displayname>NativeBuilding</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractHouse</name>
+    <displayname>AbstractHouse</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeEasySelectAvoid</name>
+    <displayname>LogicalTypeEasySelectAvoid</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>ColonyBuilding</name>
+    <displayname>ColonyBuilding</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeLandMilitary</name>
+    <displayname>LogicalTypeLandMilitary</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeNavalMilitary</name>
+    <displayname>LogicalTypeNavalMilitary</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeGarrisonInShips</name>
+    <displayname>LogicalTypeGarrisonInShips</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractPikeman</name>
+    <displayname>AbstractPikeman</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractMine</name>
+    <displayname>AbstractMine</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LifespanUnit</name>
+    <displayname>LifespanUnit</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>TradePostSocket</name>
+    <displayname>TradePostSocket</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>NativeSocket</name>
+    <displayname>NativeSocket</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>HasBountyValue</name>
+    <displayname>HasBountyValue</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractLancer</name>
+    <displayname>AbstractLancer</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>ValidIdleVillager</name>
+    <displayname>ValidIdleVillager</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>MercType2</name>
+    <displayname>MercType2</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>MercType3</name>
+    <displayname>MercType3</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>MercType4</name>
+    <displayname>MercType4</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>MercType5</name>
+    <displayname>MercType5</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>VictoryPointBuilding</name>
+    <displayname>VictoryPointBuilding</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeBuildingsNotWalls</name>
+    <displayname>LogicalTypeBuildingsNotWalls</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeValidSPCUnitsDeadCondition</name>
+    <displayname>LogicalTypeValidSPCUnitsDeadCondition</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractTownCenter</name>
+    <displayname>AbstractTownCenter</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeTCBuildLimit</name>
+    <displayname>LogicalTypeTCBuildLimit</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>CountsTowardEconomicScore</name>
+    <displayname>CountsTowardEconomicScore</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>CountsTowardMilitaryScore</name>
+    <displayname>CountsTowardMilitaryScore</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeRangedUnitsAttack</name>
+    <displayname>LogicalTypeRangedUnitsAttack</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeRangedUnitsAutoAttack</name>
+    <displayname>LogicalTypeRangedUnitsAutoAttack</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeHandUnitsAttack</name>
+    <displayname>LogicalTypeHandUnitsAttack</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeValidSharpshoot</name>
+    <displayname>LogicalTypeValidSharpshoot</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractFruit</name>
+    <displayname>AbstractFruit</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractNugget</name>
+    <displayname>AbstractNugget</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>MercType1</name>
+    <displayname>MercType1</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeMinimapFilterEconomic</name>
+    <displayname>LogicalTypeMinimapFilterEconomic</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeMinimapFilterMilitary</name>
+    <displayname>LogicalTypeMinimapFilterMilitary</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeScout</name>
+    <displayname>LogicalTypeScout</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeShipsAndBuildings</name>
+    <displayname>LogicalTypeShipsAndBuildings</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeHealed</name>
+    <displayname>LogicalTypeHealed</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractWagon</name>
+    <displayname>AbstractWagon</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractWhale</name>
+    <displayname>AbstractWhale</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractFish</name>
+    <displayname>AbstractFish</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractHandSiege</name>
+    <displayname>AbstractHandSiege</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractIndianMonk</name>
+    <displayname>AbstractIndianMonk</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractJunk</name>
+    <displayname>AbstractJunk</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractConsulateUnit</name>
+    <displayname>AbstractConsulateUnit</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractConsulateSiegeFortress</name>
+    <displayname>AbstractConsulateSiegeFortress</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractConsulateSiegeIndustrial</name>
+    <displayname>AbstractConsulateSiegeIndustrial</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractAgraFort</name>
+    <displayname>AbstractAgraFort</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractWokou</name>
+    <displayname>AbstractWokou</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractIrregular</name>
+    <displayname>AbstractIrregular</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractCaptureable</name>
+    <displayname>AbstractCaptureable</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractBarracks2</name>
+    <displayname>AbstractBarracks2</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractStables</name>
+    <displayname>AbstractStables</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractFoundry</name>
+    <displayname>AbstractFoundry</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractConsulateUnitColonial</name>
+    <displayname>AbstractConsulateUnitColonial</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractCoyoteMan</name>
+    <displayname>AbstractCoyoteMan</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>Water</name>
+    <displayname>Water</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractNuggetLand</name>
+    <displayname>AbstractNuggetLand</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractNuggetWater</name>
+    <displayname>AbstractNuggetWater</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeValidSabotage</name>
+    <displayname>LogicalTypeValidSabotage</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>AbstractPig</name>
+    <displayname>AbstractPig</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+  <unittype>
+    <name>LogicalTypeBuildingsNotWallsOrGroves</name>
+    <displayname>LogicalTypeBuildingsNotWallsOrGroves</displayname>
+    <rollovertext>No background information available.</rollovertext>
+  </unittype>
+</unittypes>
