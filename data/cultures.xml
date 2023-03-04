@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<cultures>
+  <culture>
+    <name>Europeans</name>
+    <displayname>Europeans</displayname>
+    <description>No background information available.</description>
+  </culture>
+  <culture>
+    <name>NativeAmericans</name>
+    <displayname>Native Americans</displayname>
+    <description>No background information available.</description>
+  </culture>
+  <culture>
+    <name>Asians</name>
+    <displayname>Asians</displayname>
+    <description>No background information available.</description>
+  </culture>
+  <culture>
+    <name>Africans</name>
+    <displayname>Africans</displayname>
+    <description>No background information available.</description>
+  </culture>
+  <culture>
+    <name>NationStates</name>
+    <displayname>Nation States</displayname>
+    <description>No background information available.</description>
+  </culture>
+  <culture>
+    <name>Anglos</name>
+    <displayname>Anglos</displayname>
+    <description>No background information available.</description>
+  </culture>
+  <culture>
+    <name>LatinAmericans</name>
+    <displayname>Latin Americans</displayname>
+    <description>No background information available.</description>
+  </culture>
+  <culture>
+    <name>Polynesians</name>
+    <displayname>Polynesians</displayname>
+    <description>No background information available.</description>
+  </culture>
+</cultures>
