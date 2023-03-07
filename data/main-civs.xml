@@ -4,6 +4,7 @@
 		<name>Spanish</name>
 		<displayname>Spanish</displayname>
 		<rollovername>All around roster and fast shipments. Best at: Fighting and Using Shipments.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -17,6 +18,7 @@
 		<name>British</name>
 		<displayname>British</displayname>
 		<rollovername>Free Settlers and Redcoats when building Manors and Barracks. Early Factories and a larger navy. Best at: Sea and Military Boom.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -29,6 +31,7 @@
 		<name>French</name>
 		<displayname>French</displayname>
 		<rollovername>All-around civilization with better villagers. All Barracks and Stable units have Royal Guard upgrades. Best at: Cavalry.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -43,6 +46,7 @@
 		<name>Portuguese</name>
 		<displayname>Portuguese</displayname>
 		<rollovername>Receive a free Town Center Wagon and 2 Fishing Boats with each Age up. Best at: Sea and Economic Boom.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -55,6 +59,7 @@
 		<name>Dutch</name>
 		<displayname>Dutch</displayname>
 		<rollovername>Can build Banks to produce Coin and receive resources back with every unit you train. Best at: Generating Resources and Countering Units.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -68,6 +73,7 @@
 		<name>Russians</name>
 		<displayname>Russians</displayname>
 		<rollovername>Train units in blocks, Field Hospitals improve the hitpoints of nearby units, when a building is destroyed it slows enemy units around it. Best at: Military and Defending.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -80,6 +86,7 @@
 		<name>Germans</name>
 		<displayname>Germans</displayname>
 		<rollovername>Free Uhlans with every Shipment, military regenerate hitpoints while idle, Krupp Factory generates artillery units for free. Best at: Harassing and Military Boom.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -92,6 +99,7 @@
 		<name>Ottomans</name>
 		<displayname>Ottomans</displayname>
 		<rollovername>Automatically train Settlers. Unit are stronger, give you more training experience, but can't be upgraded until Imperial Age. Infantry and cavalry generate Coin when sieging. Best at: Raiding and Fighting.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -103,6 +111,7 @@
 		<name>Habsburgs</name>
 		<displayname>Habsburgs</displayname>
 		<rollovername>Obtain other civilization bonuses every Age Up. All military units are mercenaries. Best at: Military.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -115,6 +124,7 @@
 		<name>Italians</name>
 		<displayname>Italians</displayname>
 		<rollovername>Get two types of villagers, the Merchant and the Architect. Unique units have greater range but bad melee. Get better Religion and Spies. Best at: Supporting and Countering Units.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -128,6 +138,7 @@
 		<name>Belgians</name>
 		<displayname>Belgians</displayname>
 		<rollovername>A free Frontier Wagon comes with each Age Up. Trading Posts weaken enemy economies and native warriors. Native warriors are 10% cheaper and have a unique roster of native units. Best at: Expanding and Natives.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -141,6 +152,7 @@
 		<name>Danish</name>
 		<displayname>Danes</displayname>
 		<rollovername>Start the game with a free shipment. Age up 50% faster. Upon every age up a Golden Age begins, during which experience from combat and gather rates are temporarily increased. Whenever a shipments arrives a minor Golden Age temporarily increases experience from combat. Best at: Fighting and Support.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -155,6 +167,7 @@
 		<name>Swedish</name>
 		<displayname>Swedes</displayname>
 		<rollovername>Can build Annexes onto buildings to obtain additional advantages. Allotments quickly train armies of units at reduced, but escalating cost. Can build Sawmills to harvest Wood. Best at: Building and Defending.</rollovername>
+		<culture>Europeans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -168,6 +181,7 @@
 		<name>XPIroquois</name>
 		<displayname>Haudenosaunee</displayname>
 		<rollovername>Can build cheaper Trading Posts, buildings drop resources when destroyed. Travois construct buildings for free. Best at: Expanding and Booming.</rollovername>
+		<culture>NativeAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -181,6 +195,7 @@
 		<name>XPSioux</name>
 		<displayname>Lakota</displayname>
 		<rollovername>Start the game with 200 population capacity. Units siege damage increases on each Age Up. Best at: Cavalry and Raiding.</rollovername>
+		<culture>NativeAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -193,6 +208,7 @@
 		<name>XPAztec</name>
 		<displayname>Aztecs</displayname>
 		<rollovername>Warrior Priests can dance at the firepit for greater effect. Best at: Infantry and Fighting.</rollovername>
+		<culture>NativeAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -206,6 +222,7 @@
 		<name>Tawantinsuyu</name>
 		<displayname>Inca</displayname>
 		<rollovername>Villagers generate Coin. All buildings cost Coin. Best at: Infantry and Booming.</rollovername>
+		<culture>NativeAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -218,6 +235,7 @@
 		<name>WallMapu</name>
 		<displayname>Mapuche</displayname>
 		<rollovername>Tribal Council members are in battle, and can send many shipments at the same time. Everything gives you more experience, villagers generate experience. Best at: Harassing and Using Shipments.</rollovername>
+		<culture>NativeAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -234,6 +252,7 @@
 		<name>Tupinamba</name>
 		<displayname>Tupi</displayname>
 		<rollovername>Have two types of villagers. Don't use Coin. Most military units can use stealth and can train military units in Longhouses. Best at: Infantry and Countering Units.</rollovername>
+		<culture>NativeAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -246,6 +265,7 @@
 		<name>Japanese</name>
 		<displayname>Japanese</displayname>
 		<rollovername>No hunting allowed. Shrines attract animals and generate resources. Can send most Shipments twice. Infantry units deal siege damage in melee. Best at: Infantry and Military Booming.</rollovername>
+		<culture>Asians</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -260,6 +280,7 @@
 		<name>Chinese</name>
 		<displayname>Chinese</displayname>
 		<rollovername>Trains Banner Armies made of two types of military units. Houses are replaced by Villages, which give Villagers each age-up, train defensive units and receive Shipments. Best at: Defending and Booming.</rollovername>
+		<culture>Asians</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -274,6 +295,7 @@
 		<name>Indians</name>
 		<displayname>Indians</displayname>
 		<rollovername>Villagers cost Wood. Generates experience points from livestock at Sacred Field. Receives Villagers with each Home City Shipment. Best at: Overall Booming.</rollovername>
+		<culture>Asians</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -287,6 +309,7 @@
 		<name>Koreans</name>
 		<displayname>Koreans</displayname>
 		<rollovername>Military units can garrison in most buildings. Enemy military buildings improve the stats of ships. Buildings regenerate. Best at: Navy and Turtling.</rollovername>
+		<culture>Asians</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -301,6 +324,7 @@
 		<name>Egyptians</name>
 		<displayname>Egyptians</displayname>
 		<rollovername>All buildings are replaced by mobile caravans. Villagers gather slower but are cheaper. Best at: Raiding and Expanding.</rollovername>
+		<culture>Africans</culture>
 		<gold>0</gold>
 		<food>300</food>
 		<wood>300</wood>
@@ -318,6 +342,7 @@
 		<name>Ethiopians</name>
 		<displayname>Ethiopians</displayname>
 		<rollovername>Buildings are stronger. Porters construct buildings for free and are constantly spawned from the Town Center. Best at: Infantry and Defending.</rollovername>
+		<culture>Africans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -332,6 +357,7 @@
 		<name>Zulu</name>
 		<displayname>Zulu</displayname>
 		<rollovername>Military units are trained by maturing Youths. Youths are constantly spawned from the Ikhandas and Matriarchs. Best at: Infantry and Harassing.</rollovername>
+		<culture>Africans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -347,6 +373,7 @@
 		<name>Bulgarians</name>
 		<displayname>Bulgarians</displayname>
 		<rollovername>Military unit cards transform opalchentsi into the unit they send. Can train opalchentsi in blocks at the Town Center. Unlock units one age later. Best at: Defending and Late Game.</rollovername>
+		<culture>NationStates</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -359,6 +386,7 @@
 		<name>Greeks</name>
 		<displayname>Greeks</displayname>
 		<rollovername>Buildings leave ruins when destroyed. Each Politician favors a strong card. Docks automatically train Fishing Ships and you can increase their limit by researching techs at its building. Best at: Sea and Using Shipments.</rollovername>
+		<culture>NationStates</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -372,6 +400,7 @@
 		<name>Romanians</name>
 		<displayname>Romanians</displayname>
 		<rollovername>Get access to two types of villagers. Can upgrade their buildings regardless of the Age they are in for an increased price. Gets rewards for researching all the technologies of a building of each age. Best at: Booming.</rollovername>
+		<culture>NationStates</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -386,6 +415,7 @@
 		<name>Serbians</name>
 		<displayname>Serbians</displayname>
 		<rollovername>Nearby units get stronger when a unit dies. Can set their own buildings on fire to damage the enemy and deny them Experience. Best at: Military and Fighting.</rollovername>
+		<culture>NationStates</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -399,6 +429,7 @@
 		<name>Argentineans</name>
 		<displayname>Argentines</displayname>
 		<rollovername>Herdables spawn automatically from Livestock Pens. Cavalry units move faster each Age Up. Best at: Cavalry and Booming.</rollovername>
+		<culture>LatinAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -413,6 +444,7 @@
 		<name>Bolivians</name>
 		<displayname>Bolivians</displayname>
 		<rollovername>Gain a Faith trickle from researching Native lore improvements. Religious technologies increase the bounties of Native Warriors. Villagers are free but temporary and eventually transform into Native Warriors. Best at: Religion and Natives.</rollovername>
+		<culture>LatinAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -427,6 +459,7 @@
 		<name>Brazilians</name>
 		<displayname>Brazilians</displayname>
 		<rollovername>Have additional options for Immigrants and Religion. African Slaves can be bought in bulk. Receive a free Agricultural Wagon with each Age up. Best at: Booming and Military.</rollovername>
+		<culture>LatinAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -441,6 +474,7 @@
 		<name>Centralamericans</name>
 		<displayname>Central Americans</displayname>
 		<rollovername>Villagers gather more resources from natural sources. Can choose between six different unit rosters. Age down to get the age-up bonus again or to pick a different roster. Best at: Military and Politicians.</rollovername>
+		<culture>LatinAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -455,6 +489,7 @@
 		<name>Chileans</name>
 		<displayname>Chileans</displayname>
 		<rollovername>Receive resource crates with each shipment. Villagers gather slower but economic technologies are stronger. Best at: Booming.</rollovername>
+		<culture>LatinAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -468,6 +503,7 @@
 		<name>Colombians</name>
 		<displayname>Colombians</displayname>
 		<rollovername>Infantry and cavalry can construct cheaper tent buildings. Each Age up a member state is expelled and the rewards of all the remaining Politicians are received. Villagers can heal. Best at: Rushing and Military.</rollovername>
+		<culture>LatinAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -480,6 +516,7 @@
 		<name>Haitians</name>
 		<displayname>Haitians</displayname>
 		<rollovername>Age up costs and times are exaggerated. Military units are stronger the further they are from Town Centers. Villagers can be revived with Faith if they fall unconscious. Best at: Raiding and Rushing.</rollovername>
+		<culture>LatinAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -493,6 +530,7 @@
 		<name>Mexicans</name>
 		<displayname>Mexicans</displayname>
 		<rollovername>Start the game with a Presidio Wagon. Tombs that trickle Food appear upon a villager's death. Receive Dolientes for each technology researched. Best at: Booming and Defending.</rollovername>
+		<culture>LatinAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -506,6 +544,7 @@
 		<name>Paraguayans</name>
 		<displayname>Paraguayans</displayname>
 		<rollovername>Economy based on industrial buildings that generate resources. Villagers can be used as combatants. Weak cannon fodder units train automatically from Barracks and Stables. Best at: Defending and Military Outnumbering.</rollovername>
+		<culture>LatinAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -520,6 +559,7 @@
 		<name>Peruvians</name>
 		<displayname>Peruvians</displayname>
 		<rollovername>Units move faster and have more line of sight when nearby units die. Have extra upgrades in military buildings to improve a specific set of units or all of them. Can train decoys. Villagers can garrison in most buildings. Best at: Military and Rushing.</rollovername>
+		<culture>LatinAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -532,6 +572,7 @@
 		<name>Uruguayans</name>
 		<displayname>Uruguayans</displayname>
 		<rollovername>Have access to all Immigrant options. Receive a free universal Immigrant Wagon with each Age up. Villagers support their own population space. Best at: Immigrants and Mercenaries.</rollovername>
+		<culture>LatinAmericans</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -545,6 +586,7 @@
 		<name>Australians</name>
 		<displayname>Australians</displayname>
 		<rollovername>Convict Labourers are expensive villagers that bring a Sheep for free when you train them. Best at: Military and Harassing.</rollovername>
+		<culture>Anglos</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -559,6 +601,7 @@
 		<name>Canadians</name>
 		<displayname>Canadians</displayname>
 		<rollovername>Buildings spawn Maple Trees when built. Get extra team cards. Best at: Supporting an Ally.</rollovername>
+		<culture>Anglos</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -572,6 +615,7 @@
 		<name>UnitedStates</name>
 		<displayname>United States</displayname>
 		<rollovername>Get extra technologies. Great Companies provide a Great Company Stand and more technologies. Best at: Late Game.</rollovername>
+		<culture>Anglos</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
@@ -586,6 +630,7 @@
 		<name>Maori</name>
 		<displayname>Maori</displayname>
 		<rollovername>Supports population in fortified villages called Pā. Can train infantry in blocks of ten. Training units boost the speed of all units on the map. Best at: Booming and Fighting.</rollovername>
+		<culture>Polynesians</culture>
 		<gold>0</gold>
 		<food>0</food>
 		<wood>0</wood>
